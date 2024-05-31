@@ -1,0 +1,7 @@
+ProductService - 7010, 7020, 7030, 7040
+UserService - 6010, 6020, 6030, 6040 
+PaymentService - 5010
+EurekaService - 8761(Default Port) - http://localhost:8761/
+ApiGateway - 8080 (Default Port)
+EmailService - 4010
+Kafka - 9092 (Default Port)
